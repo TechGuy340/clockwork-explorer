@@ -1,1 +1,1 @@
-# clockwork-explorer
+Clockwork Explorer is a 2D puzzle-platformer set in a forgotten world of gears, steam, and secrets. You play as a curious automaton adventurer powered by a mysterious pocket watch embedded in your chest. With the ability to rewind time and manipulate ancient machinery, you’ll navigate crumbling clock towers, rusted factories, and gear-filled caverns in search of lost knowledge and your own origin.
